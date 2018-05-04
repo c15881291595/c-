@@ -1,0 +1,287 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="3F0BB8CC-2749-4850-BECA-31111D6BA87A/d:Model/f:ProductInfoModel.cs" caret="383" fromTop="13" />
+      <File id="3F0BB8CC-2749-4850-BECA-31111D6BA87A/f:ConnectionStrings.config" caret="753" fromTop="6" />
+      <File id="3F0BB8CC-2749-4850-BECA-31111D6BA87A/d:DAL/f:ObsServiceDal.cs" caret="2299" fromTop="14" />
+      <File id="1CDC0094-E6B5-48EA-8496-23473A7BBA5C/f:Program.cs" caret="524" fromTop="16" />
+      <File id="1CDC0094-E6B5-48EA-8496-23473A7BBA5C/f:app.config" caret="0" fromTop="0" />
+      <File id="1248AB8E-332D-4D86-A817-FFDEC186B792/f:Form2.Designer.cs" caret="0" fromTop="0" />
+      <File id="3F0BB8CC-2749-4850-BECA-31111D6BA87A/f:CacheHelper.cs" caret="6055" fromTop="72" />
+      <File id="1CDC0094-E6B5-48EA-8496-23473A7BBA5C/f:CachedHelper.cs" caret="86" fromTop="3" />
+      <File id="3F0BB8CC-2749-4850-BECA-31111D6BA87A/f:DbConn.cs" caret="0" fromTop="0" />
+      <File id="1248AB8E-332D-4D86-A817-FFDEC186B792/f:Program.cs" caret="446" fromTop="14" />
+      <File id="3F0BB8CC-2749-4850-BECA-31111D6BA87A/f:App.config" caret="211" fromTop="5" />
+      <File id="1248AB8E-332D-4D86-A817-FFDEC186B792/f:app.config" caret="109" fromTop="3" />
+      <File id="3F0BB8CC-2749-4850-BECA-31111D6BA87A/f:Program.cs" caret="1141" fromTop="1" />
+      <File id="1248AB8E-332D-4D86-A817-FFDEC186B792/f:Form2.cs" caret="664" fromTop="18" />
+      <File id="1248AB8E-332D-4D86-A817-FFDEC186B792/f:CacheHelper.cs" caret="12449" fromTop="13" />
+      <File id="1248AB8E-332D-4D86-A817-FFDEC186B792/f:Form1.cs" caret="1042" fromTop="12" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="3F0BB8CC-2749-4850-BECA-31111D6BA87A/f:Program.cs" caret="454" fromTop="9" />
+      <File id="3F0BB8CC-2749-4850-BECA-31111D6BA87A/f:Program.cs" caret="7448" fromTop="25" />
+      <File id="3F0BB8CC-2749-4850-BECA-31111D6BA87A/f:Program.cs" caret="7391" fromTop="20" />
+      <File id="3F0BB8CC-2749-4850-BECA-31111D6BA87A/f:Program.cs" caret="7273" fromTop="17" />
+      <File id="3F0BB8CC-2749-4850-BECA-31111D6BA87A/f:Program.cs" caret="6762" fromTop="11" />
+      <File id="1248AB8E-332D-4D86-A817-FFDEC186B792/f:app.config" caret="284" fromTop="4" />
+      <File id="1248AB8E-332D-4D86-A817-FFDEC186B792/f:CacheHelper.cs" caret="17685" fromTop="529" />
+      <File id="1248AB8E-332D-4D86-A817-FFDEC186B792/f:Form1.cs" caret="2350" fromTop="9" />
+      <File id="1248AB8E-332D-4D86-A817-FFDEC186B792/f:Form2.cs" caret="774" fromTop="13" />
+      <File id="1248AB8E-332D-4D86-A817-FFDEC186B792/f:Form2.cs" caret="774" fromTop="10" />
+      <File id="1248AB8E-332D-4D86-A817-FFDEC186B792/f:Form2.cs" caret="774" fromTop="10" />
+      <File id="1248AB8E-332D-4D86-A817-FFDEC186B792/f:Form2.cs" caret="690" fromTop="13" />
+      <File id="1248AB8E-332D-4D86-A817-FFDEC186B792/f:Form2.cs" caret="1981" fromTop="13" />
+      <File id="1248AB8E-332D-4D86-A817-FFDEC186B792/f:Form2.cs" caret="774" fromTop="4" />
+      <File id="1248AB8E-332D-4D86-A817-FFDEC186B792/f:Form2.cs" caret="329" fromTop="14" />
+      <File id="1248AB8E-332D-4D86-A817-FFDEC186B792/f:Form2.cs" caret="1040" fromTop="20" />
+      <File id="1248AB8E-332D-4D86-A817-FFDEC186B792/f:CacheHelper.cs" caret="212" fromTop="6" />
+      <File id="1248AB8E-332D-4D86-A817-FFDEC186B792/f:CacheHelper.cs" caret="407" fromTop="12" />
+      <File id="1248AB8E-332D-4D86-A817-FFDEC186B792/f:Form2.cs" caret="1263" fromTop="14" />
+      <File id="1248AB8E-332D-4D86-A817-FFDEC186B792/f:Form2.cs" caret="1883" fromTop="19" />
+      <File id="1248AB8E-332D-4D86-A817-FFDEC186B792/f:CacheHelper.cs" caret="6394" fromTop="13" />
+      <File id="1248AB8E-332D-4D86-A817-FFDEC186B792/f:Form2.cs" caret="1556" fromTop="14" />
+      <File id="1248AB8E-332D-4D86-A817-FFDEC186B792/f:Program.cs" caret="446" fromTop="14" />
+      <File id="1248AB8E-332D-4D86-A817-FFDEC186B792/f:Form1.cs" caret="892" fromTop="17" />
+      <File id="1248AB8E-332D-4D86-A817-FFDEC186B792/f:app.config" caret="109" fromTop="3" />
+      <File id="1248AB8E-332D-4D86-A817-FFDEC186B792/f:Form1.cs" caret="1377" fromTop="23" />
+      <File id="1248AB8E-332D-4D86-A817-FFDEC186B792/f:Form1.cs" caret="528" fromTop="6" />
+      <File id="1248AB8E-332D-4D86-A817-FFDEC186B792/f:Form1.cs" caret="1431" fromTop="19" />
+      <File id="1248AB8E-332D-4D86-A817-FFDEC186B792/f:CacheHelper.cs" caret="12583" fromTop="18" />
+      <File id="1248AB8E-332D-4D86-A817-FFDEC186B792/f:Form1.cs" caret="1039" fromTop="12" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:ServiceStack.Redis.IRedisClientFactory">
+      <Item value="CreateRedisClient`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="string" priority="543" />
+      <Item value="txtKeyValue" priority="95" />
+      <Item value="username" priority="31" />
+      <Item value="txtKey" priority="127" />
+      <Item value="int" priority="63" />
+      <Item value="client" priority="736" />
+      <Item value="var" priority="894" />
+      <Item value="new" priority="574" />
+      <Item value="List" priority="148" />
+      <Item value="productCodeList" priority="31" />
+      <Item value="private" priority="95" />
+      <Item value="static" priority="31" />
+      <Item value="RedisClient`0" priority="31" />
+      <Item value="_redisClient" priority="191" />
+      <Item value="products" priority="159" />
+      <Item value="Join`4" priority="53" />
+      <Item value="class" priority="31" />
+      <Item value="public" priority="223" />
+      <Item value="decimal" priority="31" />
+      <Item value="ProductInfoDto`0" priority="63" />
+      <Item value="productInfos" priority="159" />
+      <Item value="ProductInfoDto" priority="28" />
+      <Item value="ProductCode" priority="127" />
+      <Item value="ProductName" priority="65" />
+      <Item value="Price" priority="65" />
+      <Item value="foreach" priority="383" />
+      <Item value="StringBuilder" priority="59" />
+      <Item value="product" priority="63" />
+      <Item value="byte" priority="63" />
+      <Item value="ObsoleteAttribute`0" priority="31" />
+      <Item value="obj" priority="127" />
+      <Item value="as" priority="159" />
+      <Item value="dgvResult" priority="31" />
+      <Item value="Serializable" priority="63" />
+      <Item value="productInfoDto" priority="63" />
+      <Item value="pool" priority="31" />
+      <Item value="PooledRedisClientManager" priority="57" />
+      <Item value="readWriteHosts" priority="63" />
+      <Item value="config" priority="31" />
+      <Item value="null" priority="63" />
+      <Item value="Console`0" priority="383" />
+      <Item value="#region" priority="31" />
+      <Item value="#endregion" priority="255" />
+      <Item value="DateTime`0" priority="127" />
+      <Item value="CachedHelper`0" priority="95" />
+      <Item value="IAsyncResult`0" priority="31" />
+      <Item value="ProductInfoModel`0" priority="129" />
+      <Item value="productInfo" priority="31" />
+      <Item value="productList" priority="63" />
+      <Item value="ProductInfoModel" priority="28" />
+      <Item value="reader" priority="98" />
+      <Item value="ProductSerialCode" priority="31" />
+      <Item value="ProductSerialName" priority="32" />
+      <Item value="ProductLine" priority="32" />
+      <Item value="if" priority="95" />
+      <Item value="serial" priority="31" />
+      <Item value="cache" priority="95" />
+      <Item value="else" priority="31" />
+      <Item value="CacheHelper`0" priority="223" />
+      <Item value="productLineModel" priority="31" />
+      <Item value="sku" priority="127" />
+      <Item value="ObsServiceDal" priority="28" />
+      <Item value="dal" priority="31" />
+      <Item value="serials" priority="31" />
+      <Item value="counter" priority="63" />
+      <Item value="hashKey" priority="31" />
+      <Item value="key" priority="95" />
+      <Item value="StopWatch" priority="28" />
+      <Item value="sw" priority="95" />
+      <Item value="TraceSwitch`0" priority="31" />
+      <Item value="sname" priority="191" />
+      <Item value="using" priority="31" />
+      <Item value="ToString`0" priority="27" />
+      <Item value="Length" priority="26" />
+      <Item value="name" priority="63" />
+      <Item value="const" priority="31" />
+      <Item value="PrefixSkuSaleCategoryInfo" priority="63" />
+      <Item value="PrefixSkuBaseInfo" priority="63" />
+      <Item value="PrefixSkuStyleInfo" priority="31" />
+      <Item value="style" priority="31" />
+      <Item value="PrefixSkuProductLineInfo" priority="31" />
+      <Item value="keys" priority="31" />
+      <Item value="keylist" priority="63" />
+      <Item value="tmp" priority="31" />
+      <Item value="throw" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Validated" priority="27" />
+      <Item value="Text" priority="161" />
+      <Item value="Focus`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Trim`0" priority="54" />
+      <Item value="ToString`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ServiceStack.Redis.RedisClient">
+      <Item value="Del`0" priority="26" />
+      <Item value="Type`0" priority="26" />
+      <Item value="Rename`0" priority="26" />
+      <Item value="Expire`0" priority="53" />
+      <Item value="Ttl`0" priority="53" />
+      <Item value="SearchKeys`0" priority="53" />
+      <Item value="Set`1" priority="80" />
+      <Item value="AddRangeToList`0" priority="26" />
+      <Item value="GetAllItemsFromList`0" priority="26" />
+      <Item value="GetType`0" priority="26" />
+      <Item value="Get`0" priority="162" />
+      <Item value="Get`1" priority="27" />
+      <Item value="ZAdd`0" priority="53" />
+      <Item value="SetEntry`0" priority="26" />
+      <Item value="SAdd`0" priority="53" />
+      <Item value="Save`0" priority="26" />
+      <Item value="SMembers`0" priority="26" />
+      <Item value="AddItemToSet`0" priority="26" />
+      <Item value="MGet`0" priority="26" />
+      <Item value="AddItemToSortedSet`0" priority="53" />
+      <Item value="GetAllItemsFromSortedSet`0" priority="26" />
+      <Item value="GetRangeFromList`0" priority="26" />
+      <Item value="Keys`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ServiceStack.Redis.IRedisClient">
+      <Item value="GetType`0" priority="26" />
+      <Item value="DbSize" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="108" />
+      <Item value="ToArray`0" priority="54" />
+      <Item value="Join`4" priority="26" />
+      <Item value="ToString`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Join`0" priority="26" />
+      <Item value="Format`0" priority="134" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.StringBuilder">
+      <Item value="Append`0" priority="26" />
+      <Item value="ToString`0" priority="53" />
+      <Item value="AppendFormat`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ServiceStack.Redis.Support.ObjectSerializer">
+      <Item value="Serialize`0" priority="53" />
+      <Item value="Deserialize`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridView">
+      <Item value="DataSource" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RedisConsoleClientTest.Program+ProductInfoDto">
+      <Item value="ProductCode" priority="26" />
+      <Item value="ProductName" priority="26" />
+      <Item value="Price" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="324" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlDataReader">
+      <Item value="Read`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@RedisConsoleClientTest.CachedHelper">
+      <Item value="Add`0" priority="53" />
+      <Item value="Get`0" priority="53" />
+      <Item value="pool" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="107" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="AddMinutes`0" priority="53" />
+      <Item value="AddDays`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RedisTestClientConsole.Model.ProductInfoModel">
+      <Item value="ProductCode" priority="26" />
+      <Item value="ProductName" priority="26" />
+      <Item value="Price" priority="26" />
+      <Item value="ProductSerialCode" priority="26" />
+      <Item value="ProductSerialName" priority="26" />
+      <Item value="ProductLine" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Data.SqlDbType">
+      <Item value="Int" priority="26" />
+      <Item value="Xml" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="137" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@RedisConsoleClientTest.CacheHelper">
+      <Item value="Get`0" priority="53" />
+      <Item value="Add`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RedisTestClientConsole.DAL.ObsServiceDal">
+      <Item value="GetClothesInfoForObs`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Diagnostics.Stopwatch">
+      <Item value="Start`0" priority="26" />
+      <Item value="Stop`0" priority="26" />
+      <Item value="ElapsedTicks" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int64">
+      <Item value="ToString`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@RedisTestClient.CacheHelper">
+      <Item value="Get`0" priority="107" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

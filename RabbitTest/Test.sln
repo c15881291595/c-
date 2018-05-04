@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ", "RabbitMQ\RabbitMQ.csproj", "{78AF8807-1A6D-4919-AB04-6F318A9DA105}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQClient", "RabbitMQClient\RabbitMQClient.csproj", "{335C818A-981E-4D2D-AB68-71139CE27A9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQCommon", "RabbitMQCommon\RabbitMQCommon.csproj", "{FEE42208-1E85-43A8-B93D-098D4BDA9ADC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTCash.InvokeMQ", "DTCash.InvokeMQ\DTCash.InvokeMQ.csproj", "{B7216E42-0AEA-4D35-AEA5-B2E6BE7B26EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTCash.MessageMQ", "DTCash.MessageMQ\DTCash.MessageMQ.csproj", "{47067CF6-F482-462C-9DB0-9ECCF6AF283C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTCash.HuiFuTransferMQ", "DTCash.HuiFuTransferMQ\DTCash.HuiFuTransferMQ.csproj", "{7C37D094-2AE9-4D65-9F99-5F7296DBADC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78AF8807-1A6D-4919-AB04-6F318A9DA105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78AF8807-1A6D-4919-AB04-6F318A9DA105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78AF8807-1A6D-4919-AB04-6F318A9DA105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78AF8807-1A6D-4919-AB04-6F318A9DA105}.Release|Any CPU.Build.0 = Release|Any CPU
+		{335C818A-981E-4D2D-AB68-71139CE27A9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{335C818A-981E-4D2D-AB68-71139CE27A9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{335C818A-981E-4D2D-AB68-71139CE27A9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{335C818A-981E-4D2D-AB68-71139CE27A9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEE42208-1E85-43A8-B93D-098D4BDA9ADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEE42208-1E85-43A8-B93D-098D4BDA9ADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEE42208-1E85-43A8-B93D-098D4BDA9ADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEE42208-1E85-43A8-B93D-098D4BDA9ADC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7216E42-0AEA-4D35-AEA5-B2E6BE7B26EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7216E42-0AEA-4D35-AEA5-B2E6BE7B26EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7216E42-0AEA-4D35-AEA5-B2E6BE7B26EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7216E42-0AEA-4D35-AEA5-B2E6BE7B26EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47067CF6-F482-462C-9DB0-9ECCF6AF283C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47067CF6-F482-462C-9DB0-9ECCF6AF283C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47067CF6-F482-462C-9DB0-9ECCF6AF283C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47067CF6-F482-462C-9DB0-9ECCF6AF283C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C37D094-2AE9-4D65-9F99-5F7296DBADC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C37D094-2AE9-4D65-9F99-5F7296DBADC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C37D094-2AE9-4D65-9F99-5F7296DBADC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C37D094-2AE9-4D65-9F99-5F7296DBADC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
